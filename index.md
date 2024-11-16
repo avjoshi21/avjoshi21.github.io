@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am a PhD student in Physics at the University of Illinois Urbana-Champaign. Currently working in Charles Gammie's group. Interested in problems surrounding supermassive black hole accretion with a focus on numerical methods.
 
-# [assets/avj\_cv.pdf](CV)
+# [CV](assets/avj_cv.pdf)
 
 # Publications
 
