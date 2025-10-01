@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # About Me
 
-I am a PhD student in Physics at the University of Illinois Urbana-Champaign. Currently working in Charles Gammie's group. I am also currently working with Hui Li at Los Alamos National Lab. Interested in problems surrounding supermassive black hole accretion with a focus on numerical methods.
+I am a PhD student in Physics at the University of Illinois Urbana-Champaign. Currently working in Charles Gammie's group. I am also currently working with Hui Li at the Los Alamos National Lab. Interested in problems surrounding black hole accretion with a focus on numerical methods.
 
 # [CV](assets/avj_cv.pdf)
 
